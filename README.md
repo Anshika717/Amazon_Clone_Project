@@ -48,7 +48,7 @@
             <div id="sell"> Sell </div>
         </span>
     </header>
-    <span id="mainsection"></span>
+    <span id="mainsection">
         <span id="msg">
             <span>You are on amazon.com. You can also shop on Amazon India for millions of products with fast local delivery. <a href="https://www.amazon.in/?ref=aisgw_intl_stripe_in"> Click here to go to amazon.in</a></span>
         </span>
